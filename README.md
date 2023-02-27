@@ -11,25 +11,25 @@ Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
 <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px"></a> 
 
 
-##  Conecte-se comigo 📨
+##  Conecte-se comigo 📨 <p>
 
 
 ######  [<img src="https://img.icons8.com/ultraviolet/48/000000/gmail--v2.png"/>](mailto:ingridoliveira.oc@gmail.com/) [<img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>](https://www.linkedin.com/in/ingridoliveira-oc)   
 
 - 🔭 Aprofundando-me cada vez mais no mundo da <a href="https://pt.wikipedia.org/wiki/Automa%C3%A7%C3%A3o_de_teste">Automação de teste</a>.
-- 🌱 Estudando Cypress, Robot Framework, Postman e outras tecnologias para automação de testes.
+- 🌱 Estudando Cypress, Robot Framework, Postman e outras tecnologias para automação de testes, e API, fundamentos de testes, melhores técnicas.
 
- #### :computer: Tecnologias:
+ ## :computer: Tecnologias:
 
 
 [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
-[![Python](https://skills.thijs.gg/icons?i=py)](https://pt.wikipedia.org/wiki/Python)
 [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/Git) 
-[![Mysql](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/Mysql)
 [![Cypress](https://user-images.githubusercontent.com/93720316/199821436-514d2b9e-10c8-4321-b0e1-bd1dcf52489a.png)](https://pt.wikipedia.org/wiki/Cypress)
 [![Vscode](https://user-images.githubusercontent.com/93720316/199822711-919922e2-2249-477f-9a68-0e81db260666.png)](https://pt.wikipedia.org/wiki/Vscode)
 [![RobotFramework](https://user-images.githubusercontent.com/93720316/199823510-321d8a8d-8d1a-47ef-aed7-bfe270ba2871.png)](https://pt.wikipedia.org/wiki/RobotFramework)
-[![Postman](https://user-images.githubusercontent.com/93720316/199824007-aa0fe203-00fc-4aa9-a305-2767e29d0cce.png)](https://pt.wikipedia.org/wiki/Postman)
+[![Postman](https://user-images.githubusercontent.com/93720316/199824007-aa0fe203-00fc-4aa9-a305-2767e29d0cce.png)](https://pt.wikipedia.org/wiki/Postman) [![My Skills](https://skillicons.dev/icons?i=java)]([https://skillicons.dev](https://pt.wikipedia.org/wiki/Java)) [![My Skills](https://skillicons.dev/icons?i=mongodb)]([https://skillicons.dev](https://pt.wikipedia.org/wiki/MongoDB)) 
+[![My Skills](https://skillicons.dev/icons?i=postgres)]([https://skillicons.dev](https://pt.wikipedia.org/wiki/PostgreSQL)) 
+
 
 ## Bootcamps: 
 
