@@ -31,9 +31,19 @@ Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
 [![RobotFramework](https://user-images.githubusercontent.com/93720316/199823510-321d8a8d-8d1a-47ef-aed7-bfe270ba2871.png)](https://pt.wikipedia.org/wiki/RobotFramework)
 [![Postman](https://user-images.githubusercontent.com/93720316/199824007-aa0fe203-00fc-4aa9-a305-2767e29d0cce.png)](https://pt.wikipedia.org/wiki/Postman)
 
+## Bootcamps: 
+
+<img src="https://user-images.githubusercontent.com/119944741/221614092-e7fb6e07-02f6-4f6a-9a8f-9617fc04c779.png"/>
+<a>Durante o Bootcamp aprendi sobre os principais frameworks de teste de software, incluindo Selenium WebDriver, Cucumber e JUnit. Como criar e executar casos de teste automatizados, bem como como gerenciar e documentar resultados de testes, como análise de requisitos, testes unitários e integrados, automação de testes, desenvolvimento de APIs RESTful, praticar meus conhecimentos com desafios reais em programação em Java, e entre outras.</a> 
+
+<img src="https://user-images.githubusercontent.com/119944741/221616224-f680dc6e-09c9-4c3a-b457-9d0130ddb498.png"/>
+
+<a>Com experts em Quality Assurance (QA), aprendi desde as possibilidades de atuação mercado de qualidade de software até técnicas de automação e testes na prática. onde tive uma visão geral do que é necessário para me tornar uma profissional de QA extremamente qualificada, o que incluiu um Roadmap para uma das principais certificações desta área (CTFL). A minha experiência no bootcamp de Formação em Quality Assurance (QA) na DIO foi extremamente útil e gratificante. Aprendi diversos conceitos fundamentais sobre como testar software, criar requisitos funcionais, documentar defeitos e muito mais. Além disso, tive a oportunidade de praticar minhas habilidades, trabalhando com desafios reais.
+
+ 
 
 #### :scroll: Project List
-- [x] <a href="https://github.com/ingridoliveira-oc/Robot-Framework">Projeto de automação do site BarrigaReact com Robot Framework</a>⭐ 
+- [x] <a href="https://github.com/ingridoliveira-oc/Robot-Framework">Projeto de automação do site BarrigaReact com Robot Framework</a> 
 - [x] <a href="https://github.com/ingridoliveira-oc/cypress">Login e Cadastro usando o Cypress</a>
 - [x] <a href="https://github.com/ingridoliveira-oc/automacao_cadastro-usuarios_Robot">Automação de cadastro de usuários usando o Robot Framework</a>
 - [x] <a href="https://github.com/ingridoliveira-oc/Teste-API_RobotFramework">Teste de API com o Robot Framework</a>
