@@ -22,11 +22,9 @@ Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
  ## :computer: Tecnologias:
 
 
-[![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
 [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/Git) 
 [![Cypress](https://user-images.githubusercontent.com/93720316/199821436-514d2b9e-10c8-4321-b0e1-bd1dcf52489a.png)](https://pt.wikipedia.org/wiki/Cypress)
 [![Vscode](https://user-images.githubusercontent.com/93720316/199822711-919922e2-2249-477f-9a68-0e81db260666.png)](https://pt.wikipedia.org/wiki/Vscode)
-[![RobotFramework](https://user-images.githubusercontent.com/93720316/199823510-321d8a8d-8d1a-47ef-aed7-bfe270ba2871.png)](https://pt.wikipedia.org/wiki/RobotFramework)
 [![Postman](https://user-images.githubusercontent.com/93720316/199824007-aa0fe203-00fc-4aa9-a305-2767e29d0cce.png)](https://pt.wikipedia.org/wiki/Postman) [![My Skills](https://skillicons.dev/icons?i=java)]([https://skillicons.dev](https://pt.wikipedia.org/wiki/Java)) [![My Skills](https://skillicons.dev/icons?i=mongodb)]([https://skillicons.dev](https://pt.wikipedia.org/wiki/MongoDB)) 
 [![My Skills](https://skillicons.dev/icons?i=postgres)]([https://skillicons.dev](https://pt.wikipedia.org/wiki/PostgreSQL)) 
 
@@ -43,7 +41,5 @@ Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
  
 
 #### :scroll: Project List
-- [x] <a href="https://github.com/ingridoliveira-oc/Robot-Framework">Projeto de automação do site BarrigaReact com Robot Framework</a> 
-- [x] <a href="https://github.com/ingridoliveira-oc/cypress">Login e Cadastro usando o Cypress</a>
 - [x] <a href="https://github.com/ingridoliveira-oc/automacao_cadastro-usuarios_Robot">Automação de cadastro de usuários usando o Robot Framework</a>
 - [x] <a href="https://github.com/ingridoliveira-oc/Teste-API_RobotFramework">Teste de API com o Robot Framework</a>
