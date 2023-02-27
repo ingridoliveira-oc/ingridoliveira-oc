@@ -33,7 +33,6 @@ Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
 
 
 #### :scroll: Project List
-- [x] <a href="https://github.com/ingridoliveira-oc/lojaEbac">Criando testes básicos na lojinha da EBAC</a> 
 - [x] <a href="https://github.com/ingridoliveira-oc/Robot-Framework">Projeto de automação do site BarrigaReact com Robot Framework</a>⭐ 
 - [x] <a href="https://github.com/ingridoliveira-oc/cypress">Login e Cadastro usando o Cypress</a>
 - [x] <a href="https://github.com/ingridoliveira-oc/automacao_cadastro-usuarios_Robot">Automação de cadastro de usuários usando o Robot Framework</a>
