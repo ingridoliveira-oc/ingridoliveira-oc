@@ -22,8 +22,18 @@ Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
 - 🌱 Com o Postman API, crie um conjunto de instruções que foram executadas antes de cada solicitação enviada pelo Postman, através de pré-scripts para serem usados na realização várias tarefas, como definir variáveis de ambiente, autenticar solicitações, configurar headers, entre outras, e a capacidade da API de lidar com dados variáveis e imprevisíveisajudando a identificar problemas de desempenho ou outros problemas que possam surgir em condições de uso real. <p> </p><p> </p>
 - Para aprofundar meus conhecimentos em Postman, efetuei o treinamento de API Fundamentals Student Expert na própria academia oficial do Postman.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2l1RVKG0k8nVTPfFmLmI7MPw5IwpYx7MkNeVuMbyFez51F3-Ds6nMN1BwUXrPVrtEes&usqp=CAU"/> <p> </p>
+ <p> </p>
 - Link de validação: https://badgr.com/public/assertions/jTA8LQXSR-e5PxpBj8P72Q
+
+Na certificação aprendi com desafios reais:
+
+- O que são APIs e sua importância no desenvolvimento de software moderno
+- Como usar o Postman para trabalhar com APIs
+- Fazendo solicitações GET, POST, PATCH e DELETE
+- Parâmetros de consulta, corpos, cabeçalhos, códigos de resposta
+- Scripts básicos
+- Autorização de chave de API
+- Como usar APIs em seus aplicativos
 
         
  
