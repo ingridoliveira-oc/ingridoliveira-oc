@@ -23,7 +23,7 @@ Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
 - Para aprofundar meus conhecimentos em Postman, efetuei o treinamento de API Fundamentals Student Expert na própria academia oficial do Postman.
 
  <p> </p>
-- Link de validação: https://badgr.com/public/assertions/jTA8LQXSR-e5PxpBj8P72Q
+- 🌱 Link de validação: https://badgr.com/public/assertions/jTA8LQXSR-e5PxpBj8P72Q
 
 Na certificação aprendi com desafios reais:
 
@@ -50,7 +50,7 @@ Na certificação aprendi com desafios reais:
 
 ## Bootcamps: 
 
-<img src="https://user-images.githubusercontent.com/119944741/221614092-e7fb6e07-02f6-4f6a-9a8f-9617fc04c779.png"/>
+<a><img src="https://user-images.githubusercontent.com/119944741/221614092-e7fb6e07-02f6-4f6a-9a8f-9617fc04c779.png"/><p>
 <a>Durante o Bootcamp aprendi sobre os principais frameworks de teste de software, incluindo Selenium WebDriver, Cucumber e JUnit. Como criar e executar casos de teste automatizados, bem como como gerenciar e documentar resultados de testes, como análise de requisitos, testes unitários e integrados, automação de testes, desenvolvimento de APIs RESTful, praticar meus conhecimentos com desafios reais em programação em Java, e entre outras.</a> 
 
 <img src="https://user-images.githubusercontent.com/119944741/221616224-f680dc6e-09c9-4c3a-b457-9d0130ddb498.png"/>
