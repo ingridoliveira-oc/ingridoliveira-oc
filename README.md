@@ -21,7 +21,7 @@ Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
 <img src="https://user-images.githubusercontent.com/119944741/221741900-72dcec09-ead9-4fc2-89c5-417b78f5e99c.png"/> <p> </p>
 
 - 🌱 Com o Postman API, crie um conjunto de instruções que foram executadas antes de cada solicitação enviada pelo Postman, através de pré-scripts para serem usados na realização várias tarefas, como definir variáveis de ambiente, autenticar solicitações, configurar headers, entre outras, e a capacidade da API de lidar com dados variáveis e imprevisíveisajudando a identificar problemas de desempenho ou outros problemas que possam surgir em condições de uso real. <p> </p><p> </p>
-- Para aprofundar meus conhecimentos em Postman, efetuei o treinamento Postman API Fundamentals Student Expert 
+- Para aprofundar meus conhecimentos em Postman, efetuei o treinamento de API Fundamentals Student Expert na própria academia oficial do Postman.
 
 - Link de validação: https://badgr.com/public/assertions/jTA8LQXSR-e5PxpBj8P72Q
 
