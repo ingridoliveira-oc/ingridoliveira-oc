@@ -9,7 +9,6 @@ Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
 ##  Conecte-se comigo 📨
 
 
-
 ######  [<img src="https://img.icons8.com/ultraviolet/48/000000/gmail--v2.png"/>](mailto:ingridoliveira.oc@gmail.com/) [<img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>](https://www.linkedin.com/in/ingridoliveira-oc) <p><p/>
 
 </p> - 🔭 Aprofundando-me cada vez mais no mundo da <a href="https://pt.wikipedia.org/wiki/Automa%C3%A7%C3%A3o_de_teste">Automação de teste</a>.<p> </p>
@@ -23,6 +22,7 @@ Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
 - 🌱 Com o Postman API, crie um conjunto de instruções que foram executadas antes de cada solicitação enviada pelo Postman, através de pré-scripts para serem usados na realização várias tarefas, como definir variáveis de ambiente, autenticar solicitações, configurar headers, entre outras, e a capacidade da API de lidar com dados variáveis e imprevisíveisajudando a identificar problemas de desempenho ou outros problemas que possam surgir em condições de uso real. <p> </p><p> </p>
 - Para aprofundar meus conhecimentos em Postman, efetuei o treinamento de API Fundamentals Student Expert na própria academia oficial do Postman.
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2l1RVKG0k8nVTPfFmLmI7MPw5IwpYx7MkNeVuMbyFez51F3-Ds6nMN1BwUXrPVrtEes&usqp=CAU"/> <p> </p>
 - Link de validação: https://badgr.com/public/assertions/jTA8LQXSR-e5PxpBj8P72Q
 
         
