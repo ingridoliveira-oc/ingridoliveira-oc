@@ -6,19 +6,27 @@ Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
  
  Em pouco tempo, me esforcei e aperfeiçoei o conhecimento em Postman para testar nossas APIs, onde utilizei scripts randomicos para ajudar a aumentar a cobertura de testes e descobrir problemas inesperados. Para uma melhor compreensão na criação destes script, e com isso automazizá-los, aprofundei meu conhecimento em JavaScript, para assim poder gerar valores aleatórios para variáveis como nomes, e-mails, cpfs, cnpj, telefones, razão social e muitos outros dados que são obrigatórios na utilização dos métodos no webservice.
 
-<img href="https://github.com/JAIMEjun10r" src="https://komarev.com/ghpvc/?username=JAIMEjun10r&color=blueviolet" alt="Profile views"/>
-
-<img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px"></a> 
+##  Conecte-se comigo 📨
 
 
-##  Conecte-se comigo 📨 <p>
 
+######  [<img src="https://img.icons8.com/ultraviolet/48/000000/gmail--v2.png"/>](mailto:ingridoliveira.oc@gmail.com/) [<img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>](https://www.linkedin.com/in/ingridoliveira-oc) <p><p/>
 
-######  [<img src="https://img.icons8.com/ultraviolet/48/000000/gmail--v2.png"/>](mailto:ingridoliveira.oc@gmail.com/) [<img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>](https://www.linkedin.com/in/ingridoliveira-oc)   
+</p> - 🔭 Aprofundando-me cada vez mais no mundo da <a href="https://pt.wikipedia.org/wiki/Automa%C3%A7%C3%A3o_de_teste">Automação de teste</a>.<p> </p>
 
-- 🔭 Aprofundando-me cada vez mais no mundo da <a href="https://pt.wikipedia.org/wiki/Automa%C3%A7%C3%A3o_de_teste">Automação de teste</a>.
-- 🌱 Estudando Cypress, Robot Framework, Postman e outras tecnologias para automação de testes, e API, fundamentos de testes, melhores técnicas.
+- 🌱 Estudando Cypress através do Bootcamp da QAxperience onde irei me especializar através de uma didática eficiente, um método baseado em projetos reais e as experiências que vão mudar a sua visão como QA. 
 
+- https://qaxperience.com/cursos/bootcamp-cypress/
+
+<img src="https://user-images.githubusercontent.com/119944741/221741900-72dcec09-ead9-4fc2-89c5-417b78f5e99c.png"/> <p> </p>
+
+- 🌱 Com o Postman API, crie um conjunto de instruções que foram executadas antes de cada solicitação enviada pelo Postman, através de pré-scripts para serem usados na realização várias tarefas, como definir variáveis de ambiente, autenticar solicitações, configurar headers, entre outras, e a capacidade da API de lidar com dados variáveis e imprevisíveisajudando a identificar problemas de desempenho ou outros problemas que possam surgir em condições de uso real. <p> </p><p> </p>
+- Para aprofundar meus conhecimentos em Postman, efetuei o treinamento Postman API Fundamentals Student Expert 
+
+- Link de validação: https://badgr.com/public/assertions/jTA8LQXSR-e5PxpBj8P72Q
+
+        
+ 
  ## :computer: Tecnologias:
 
 
@@ -27,6 +35,7 @@ Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
 [![Vscode](https://user-images.githubusercontent.com/93720316/199822711-919922e2-2249-477f-9a68-0e81db260666.png)](https://pt.wikipedia.org/wiki/Vscode)
 [![Postman](https://user-images.githubusercontent.com/93720316/199824007-aa0fe203-00fc-4aa9-a305-2767e29d0cce.png)](https://pt.wikipedia.org/wiki/Postman) [![My Skills](https://skillicons.dev/icons?i=java)]([https://skillicons.dev](https://pt.wikipedia.org/wiki/Java)) [![My Skills](https://skillicons.dev/icons?i=mongodb)]([https://skillicons.dev](https://pt.wikipedia.org/wiki/MongoDB)) 
 [![My Skills](https://skillicons.dev/icons?i=postgres)]([https://skillicons.dev](https://pt.wikipedia.org/wiki/PostgreSQL)) 
+
 
 
 ## Bootcamps: 
@@ -39,7 +48,3 @@ Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
 <a>Com experts em Quality Assurance (QA), aprendi desde as possibilidades de atuação mercado de qualidade de software até técnicas de automação e testes na prática. onde tive uma visão geral do que é necessário para me tornar uma profissional de QA extremamente qualificada, o que incluiu um Roadmap para uma das principais certificações desta área (CTFL). A minha experiência no bootcamp de Formação em Quality Assurance (QA) na DIO foi extremamente útil e gratificante. Aprendi diversos conceitos fundamentais sobre como testar software, criar requisitos funcionais, documentar defeitos e muito mais. Além disso, tive a oportunidade de praticar minhas habilidades, trabalhando com desafios reais.
 
  
-
-#### :scroll: Project List
-- [x] <a href="https://github.com/ingridoliveira-oc/automacao_cadastro-usuarios_Robot">Automação de cadastro de usuários usando o Robot Framework</a>
-- [x] <a href="https://github.com/ingridoliveira-oc/Teste-API_RobotFramework">Teste de API com o Robot Framework</a>
