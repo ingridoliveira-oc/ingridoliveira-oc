@@ -1,3 +1,5 @@
+### About me
+
 ## Me chamo Ingrid Oliveira, moro no Hell de Janeiro, sou graduada em Análise de Sistemas. 
 ### Atualimente estou cursando 3 pós-graduações (Engenharia de Software com Ênfase em Qualidade e Teste | MBA em Administração de Dados | Gestão de Governância em TI).
 Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
@@ -5,6 +7,8 @@ Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
     Neste período de 4 meses, aprendi ferramentas e metodologias de teste: como testes de API com Postman, testes de unidade, integração, aceitação, regressão, entre outros. Além disso, fiz diversos cursos de Quality Assurance para ter uma base com foco nos tópicos como metodologias de teste, estratégias de qualidade de software, processos de garantia de qualidade, ferramentas de teste, testes de automação, entre outros.
  
  Em pouco tempo, me esforcei e aperfeiçoei o conhecimento em Postman para testar nossas APIs, onde utilizei scripts randomicos para ajudar a aumentar a cobertura de testes e descobrir problemas inesperados. Para uma melhor compreensão na criação destes script, e com isso automazizá-los, aprofundei meu conhecimento em JavaScript, para assim poder gerar valores aleatórios para variáveis como nomes, e-mails, cpfs, cnpj, telefones, razão social e muitos outros dados que são obrigatórios na utilização dos métodos no webservice.
+ 
+[Website](https://www.ldsoft.com.br/) 💻 QA Analyst
 
 ##  Conecte-se comigo 📨
 
@@ -37,7 +41,7 @@ Na certificação aprendi com desafios reais:
 
         
  
- ## :computer: Tecnologias:
+ ## ✍🏼 Tecnologias que estou praticando:
 
 
 [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/Git) 
@@ -57,4 +61,8 @@ Na certificação aprendi com desafios reais:
 
 <a>Com experts em Quality Assurance (QA), aprendi desde as possibilidades de atuação mercado de qualidade de software até técnicas de automação e testes na prática. onde tive uma visão geral do que é necessário para me tornar uma profissional de QA extremamente qualificada, o que incluiu um Roadmap para uma das principais certificações desta área (CTFL). A minha experiência no bootcamp de Formação em Quality Assurance (QA) na DIO foi extremamente útil e gratificante. Aprendi diversos conceitos fundamentais sobre como testar software, criar requisitos funcionais, documentar defeitos e muito mais. Além disso, tive a oportunidade de praticar minhas habilidades, trabalhando com desafios reais.
 
- 
+
+  
+
+  
+  
