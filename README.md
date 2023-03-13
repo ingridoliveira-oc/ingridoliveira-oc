@@ -62,7 +62,10 @@ Na certificação aprendi com desafios reais:
 <a>Com experts em Quality Assurance (QA), aprendi desde as possibilidades de atuação mercado de qualidade de software até técnicas de automação e testes na prática. onde tive uma visão geral do que é necessário para me tornar uma profissional de QA extremamente qualificada, o que incluiu um Roadmap para uma das principais certificações desta área (CTFL). A minha experiência no bootcamp de Formação em Quality Assurance (QA) na DIO foi extremamente útil e gratificante. Aprendi diversos conceitos fundamentais sobre como testar software, criar requisitos funcionais, documentar defeitos e muito mais. Além disso, tive a oportunidade de praticar minhas habilidades, trabalhando com desafios reais.
 
 
-  
+ <img src="https://user-images.githubusercontent.com/119944741/224696732-022e9ae3-8fdc-4eff-9861-92d5b3807f8a.png"/>
+
+ <a>Durante o Bootcamp  de "Formação Scrum Master Certification", pude entender todos os fundamentos do Scrum, um framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos. E que gestão ágil com Scrum permite um desenvolvimento flexível, iterativo e incremental de novos produtos e serviços, sempre promovendo uma cultura voltada ao aprendizado, melhoria contínua e aproximação com o cliente.
+Além de também dominar os fundamentos e o framework Scrum, ao final da Formação preparei para a Certificação Internacional: Professional Scrum Master I (PSM I) da Scrum.org. Para potencializar a minha carreira! 🚀
 
   
   
