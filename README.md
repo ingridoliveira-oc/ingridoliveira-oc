@@ -1,17 +1,7 @@
 ### About me
 
-## Me chamo Ingrid Oliveira, moro no Hell de Janeiro, sou graduada em Análise de Sistemas. 
-### Atualimente estou cursando 3 pós-graduações (Engenharia de Software com Ênfase em Qualidade e Teste | MBA em Administração de Dados | Gestão de Governância em TI).
-Em 10/22 realizei minha transição de carreira para Analista de Qualidade.💻
-  No geral, apesar de ter atuado por mais de 10 anos na área de Tecnologia, agora como Analista de Qualidade estou adquirindo uma compreensão mais profunda dos processos e técnicas de teste de software, bem como habilidades importantes em comunicação, resolução de problemas e colaboração. 
-    Neste período de 4 meses, aprendi ferramentas e metodologias de teste: como testes de API com Postman, testes de unidade, integração, aceitação, regressão, entre outros. Além disso, fiz diversos cursos de Quality Assurance para ter uma base com foco nos tópicos como metodologias de teste, estratégias de qualidade de software, processos de garantia de qualidade, ferramentas de teste, testes de automação, entre outros.
- 
- Em pouco tempo, me esforcei e aperfeiçoei o conhecimento em Postman para testar nossas APIs, onde utilizei scripts randomicos para ajudar a aumentar a cobertura de testes e descobrir problemas inesperados. Para uma melhor compreensão na criação destes script, e com isso automazizá-los, aprofundei meu conhecimento em JavaScript, para assim poder gerar valores aleatórios para variáveis como nomes, e-mails, cpfs, cnpj, telefones, razão social e muitos outros dados que são obrigatórios na utilização dos métodos no webservice.
- 
-[Website](https://www.ldsoft.com.br/) 💻 QA Analyst
-
-##  Conecte-se comigo 📨
-
+## Me chamo Ingrid Oliveira, moro no Hell de Janeiro, sou graduada em Análise de Sistemas e pós graduada em Engenharia de Software
+### Atualimente estou cursando 2 pós-graduações ( Engenharia DevOps | Gestão de Governância em TI).
 
 ######  [<img src="https://img.icons8.com/ultraviolet/48/000000/gmail--v2.png"/>](mailto:ingridoliveira.oc@gmail.com/) [<img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>](https://www.linkedin.com/in/ingridoliveira-oc) <p><p/>
 
